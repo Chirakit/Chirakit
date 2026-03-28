@@ -25,5 +25,6 @@ I am actively seeking opportunities to break into the industry! I am open to:
 ## 📫 Let's Connect!
 * **LinkedIn:** www.linkedin.com/in/chirakit-marachchalee-8650b73a3
 * **Email:** Chirakit.ma@gmail.com
+* **Sketchfab:** https://sketchfab.com/che3nut
 
 ---
