@@ -1,26 +1,30 @@
 # Hi there, I'm Chirakit 👋
 
-Welcome to my GitHub! I am a **Game Tester** and **3D Modeler** with a passion for building immersive worlds and ensuring they deliver a flawless player experience. 
+### Aspiring Game Tester & 3D Modeler
 
-## 🛠️ What I Do
-* **3D Modeling:** Crafting detailed assets and environments. I work extensively in **Blender**, and I'm currently focused on translating 2D architectural floor plans into complete 3D building models.
-* **Game Development & QA:** Hunting down bugs, testing mechanics, and contributing to the development lifecycle. I work closely with **Unity** to build, refine, and test interactive experiences.
+Welcome to my GitHub! I am currently building my skills and portfolio to transition into a career in the gaming industry. I have a deep passion for both the creative side of building immersive worlds and the technical side of ensuring they play flawlessly.
 
-## 🚀 Currently Working On
-* A Metaverse System Of School Of Information Technology At King Mongkut’s Institute of Technology Ladkrabang
+## 🎯 My Focus
+* **3D Modeling:** I spend my time crafting detailed assets in **Blender**. Right now, I'm challenging myself by taking 2D architectural floor plans and bringing them to life as fully realized 3D building models.
+* **Game QA & Mechanics:** I am developing my eye for testing, analyzing game mechanics, and understanding what makes an experience intuitive (or frustrating!). I'm working with **Unity** to better understand the development pipeline from the inside out.
 
-## 🎮 Beyond the Editor
-I don't just test games; I love playing challenging ones. When I'm off the clock, you'll usually find me braving the latest **roguelikes** or testing my reflexes (and patience!) with high-difficulty "rage" games like *Getting Over It* and *Only Up!*.
+## 🚀 What I'm Working On
+* Senior project "A Metaverse System Of School Of Information At King Mongkut's Institute Of Technology Ladkrabang"
 
-## 💻 Tools & Technologies
+## 💻 My Toolkit
 * **Game Engines:** Unity
-* **Art & Modeling:** Blender, Substance Painter
-* **QA & Tracking:** Jira, Trello
-* **Languages:** C#, Python
+* **3D Art:** Blender
+* **Currently Learning:** Blender
 
-## 📫 How to Reach Me
+## 🌱 Looking For...
+I am actively seeking opportunities to break into the industry! I am open to:
+* Entry-level Game QA testing roles.
+* Junior 3D Modeling/Environment Art positions.
+* Collaborations on indie games or game jams to gain more team experience.
+
+## 📫 Let's Connect!
 * **LinkedIn:** www.linkedin.com/in/chirakit-marachchalee-8650b73a3
-* **Email:** chirakit.ma@gmail.com
+* **Email:** Chirakit.ma@gmail.com
 
 ---
-*Always open to collaborating on indie games, game jams, or 3D art projects. Let's build something awesome!*
+*If you're a recruiter, developer, or fellow creator looking for someone dedicated and eager to learn, feel free to reach out!*
