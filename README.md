@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Chirakit/Chirakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am a **Game Tester** and **3D Modeler** with a passion for building immersive worlds and ensuring they deliver a flawless player experience. 
 
-Here are some ideas to get you started:
+## 🛠️ What I Do
+* **3D Modeling:** Crafting detailed assets and environments. I work extensively in **Blender**, and I'm currently focused on translating 2D architectural floor plans into complete 3D building models.
+* **Game Development & QA:** Hunting down bugs, testing mechanics, and contributing to the development lifecycle. I work closely with **Unity** to build, refine, and test interactive experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+* Collaborating with a dedicated seven-person team on an upcoming game development project.
+* Expanding my portfolio of 3D architectural models and game-ready assets.
+* [Add another open-source project or repository you are proud of here]
+
+## 🎮 Beyond the Editor
+I don't just test games; I love playing challenging ones. When I'm off the clock, you'll usually find me braving the latest **roguelikes** or testing my reflexes (and patience!) with high-difficulty "rage" games like *Getting Over It* and *Only Up!*.
+
+## 💻 Tools & Technologies
+* **Game Engines:** Unity, [Add others you use, e.g., Unreal Engine, Godot]
+* **Art & Modeling:** Blender, [Add others, e.g., Maya, ZBrush, Substance Painter]
+* **QA & Tracking:** [Add bug tracking tools you use, e.g., Jira, Bugzilla, Trello]
+* **Languages:** [Add coding languages, e.g., C#, Python]
+
+## 📫 How to Reach Me
+* **Portfolio:** [Link to your ArtStation, Sketchfab, or Website]
+* **LinkedIn:** [Link to your LinkedIn Profile]
+* **Email:** [Your Email Address]
+
+---
+*Always open to collaborating on indie games, game jams, or 3D art projects. Let's build something awesome!*
