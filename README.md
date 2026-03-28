@@ -15,10 +15,10 @@ Welcome to my GitHub! I am a **Game Tester** and **3D Modeler** with a passion f
 I don't just test games; I love playing challenging ones. When I'm off the clock, you'll usually find me braving the latest **roguelikes** or testing my reflexes (and patience!) with high-difficulty "rage" games like *Getting Over It* and *Only Up!*.
 
 ## 💻 Tools & Technologies
-* **Game Engines:** Unity, [Add others you use, e.g., Unreal Engine, Godot]
-* **Art & Modeling:** Blender, [Add others, e.g., Maya, ZBrush, Substance Painter]
-* **QA & Tracking:** [Add bug tracking tools you use, e.g., Jira, Bugzilla, Trello]
-* **Languages:** [Add coding languages, e.g., C#, Python]
+* **Game Engines:** Unity
+* **Art & Modeling:** Blender, Substance Painter
+* **QA & Tracking:** Jira, Trello
+* **Languages:** C#, Python
 
 ## 📫 How to Reach Me
 * **LinkedIn:** www.linkedin.com/in/chirakit-marachchalee-8650b73a3
