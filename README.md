@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Chirakit 👋
 
 Welcome to my GitHub! I am a **Game Tester** and **3D Modeler** with a passion for building immersive worlds and ensuring they deliver a flawless player experience. 
 
