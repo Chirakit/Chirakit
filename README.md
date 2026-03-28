@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a **Game Tester** and **3D Modeler** with a passion f
 * **Game Development & QA:** Hunting down bugs, testing mechanics, and contributing to the development lifecycle. I work closely with **Unity** to build, refine, and test interactive experiences.
 
 ## 🚀 Currently Working On
-* A METAVERSE SYSTEM OF SCHOOL OF INFORMATION TECHNOLOGY AT KING MONGKUT’S INSTITUTE OF TECHNOLOGY LADKRABANG
+* A Metaverse System Of School Of Information Technology At King Mongkut’s Institute of Technology Ladkrabang
 
 ## 🎮 Beyond the Editor
 I don't just test games; I love playing challenging ones. When I'm off the clock, you'll usually find me braving the latest **roguelikes** or testing my reflexes (and patience!) with high-difficulty "rage" games like *Getting Over It* and *Only Up!*.
