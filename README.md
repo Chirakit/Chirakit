@@ -27,4 +27,3 @@ I am actively seeking opportunities to break into the industry! I am open to:
 * **Email:** Chirakit.ma@gmail.com
 
 ---
-*If you're a recruiter, developer, or fellow creator looking for someone dedicated and eager to learn, feel free to reach out!*
