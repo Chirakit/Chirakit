@@ -21,9 +21,8 @@ I don't just test games; I love playing challenging ones. When I'm off the clock
 * **Languages:** [Add coding languages, e.g., C#, Python]
 
 ## 📫 How to Reach Me
-* **Portfolio:** [Link to your ArtStation, Sketchfab, or Website]
-* **LinkedIn:** [Link to your LinkedIn Profile]
-* **Email:** [Your Email Address]
+* **LinkedIn:** www.linkedin.com/in/chirakit-marachchalee-8650b73a3
+* **Email:** chirakit.ma@gmail.com
 
 ---
 *Always open to collaborating on indie games, game jams, or 3D art projects. Let's build something awesome!*
